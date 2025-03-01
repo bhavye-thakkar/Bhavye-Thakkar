@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me: I'm Currently Working on Flutter App Development<br>I'm Currently Learning Flutter and React js.
+ I'm Currently Working on Flutter App Development<br>I'm Currently Learning Flutter and React js.
 
 
 ## 🌐 Socials:
