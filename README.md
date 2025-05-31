@@ -9,7 +9,7 @@
 
 <br>
 
-Hi, I'm [Bhavye Thakkar], a Software developer 👨🏻‍💻 from India. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products.I'm proud to say that **I can succesfully center an element with css.** Beside's Hacking stuff.
+Hi, I'm Bhavye Thakkar, a Software developer 👨🏻‍💻 from India. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products.I'm proud to say that **I can succesfully center an element with css.** Beside's Hacking stuff.
 
 <br>
 
@@ -18,8 +18,8 @@ Hi, I'm [Bhavye Thakkar], a Software developer 👨🏻‍💻 from India. I'm a
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
 
-- 📫 How to reach me: [cschetan559@gmail.com](mailto:cschetan559@gmail.com);
-- 🔗 My website: [chetansharma.co](https://chetansharma.co/)
+
+
 
  <br>
 
