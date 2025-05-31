@@ -23,7 +23,7 @@ Besides training models and pushing to production, I love hacking on innovative 
 
  <br>
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Chetan559&label=Profile%20views&color=0e75b6&style=flat" alt="Chetan559" /> </p> 
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavye-thakkar" alt="BhavyeThakkar" /> </p> 
  
  </br>
 
