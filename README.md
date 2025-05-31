@@ -72,6 +72,7 @@ Besides training models and pushing to production, I love hacking on innovative 
 </br>
 
 <picture>
+ ![bhavye-thakkar's Stats](https://github-readme-stats.vercel.app/api?username=bhavye-thakkar&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chetan559/Chetan559/output/snake.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chetan559/Chetan559/output/snake.svg">
   <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Chetan559/Chetan559/output/snake.svg">
