@@ -3,7 +3,7 @@ I'm Currently Working on Flutter App Development<br>I'm Currently Learning Flutt
 
 
 ## 🌐 Socials:
-[![Instagram](https://www.instagram.com/typically_bhavye?igsh=NXJxODd2NjY2MGU1)] [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bhavye-thakkar-0b086830a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/BhavyeThakkar?t=lj5we6cL1xhFSkyWQGtHRg&s=09) 
+[![Instagram](https://www.instagram.com/typically_bhavye?igsh=NXJxODd2NjY2MGU1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bhavye-thakkar-0b086830a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/BhavyeThakkar?t=lj5we6cL1xhFSkyWQGtHRg&s=09) 
 
 # 💻 Tech Stack:
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
