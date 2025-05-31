@@ -1,9 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="left">
 <a href="https://www.linkedin.com/in/bhavye-thakkar-0b086830a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img height="30" src="https://raw.githubusercontent.com/Chetan559/Chetan559/main/Resources/png/linkedin.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/typically_bhavye?igsh=NXJxODd2NjY2MGU1" target="_blank"><img height="30" src="https://raw.githubusercontent.com/Chetan559/Chetan559/main/Resources/png/instagram.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 
 </p>
 
@@ -16,10 +15,9 @@ Hi, I'm Bhavye Thakkar, a Software developer 👨🏻‍💻 from India. I'm a c
 <!-- https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif -->
 <!-- <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" /> -->
 
-<img align="right" alt="GIF" src="https://images.app.goo.gl/r59ohGLdhSmwF9568" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
 
-
-
+- 📫 How to reach me: [thakkarbhavye1425@gmail.com](mailto:thakkarbhavye1425@gmail.com);
 
  <br>
 
