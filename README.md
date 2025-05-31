@@ -8,8 +8,10 @@
 
 <br>
 
-Hi, I'm Bhavye Thakkar, a Software developer 👨🏻‍💻 from India. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products.I'm proud to say that **I can succesfully center an element with css.** Beside's Hacking stuff.
+Hi, I'm **Bhavye Thakkar**, an AI/ML Engineer 🤖 from India. I'm a creative problem-solving enthusiast and a product guy, driven by a love for building intelligent systems that actually make a difference. From fine-tuning neural networks to deploying scalable models, I enjoy turning messy data into meaningful insights—and cool products.
 
+I'm proud to say that I can explain **backpropagation without Googling** (most days).
+Besides training models and pushing to production, I love hacking on innovative ideas and dreaming up the next big thing in AI.
 <br>
 
 <!-- https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif -->
