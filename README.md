@@ -1,7 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
-<p align="left">
-<a href="https://x.com/ChetanSharma974" target="_blank"><img height="30" src="https://raw.githubusercontent.com/Chetan559/Chetan559/main/Resources/png/twitter.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/sharma-chetan-k/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/Chetan559/Chetan559/main/Resources/png/linkedin.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/https.sharmaji/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/Chetan559/Chetan559/main/Resources/png/instagram.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://open.spotify.com/user/gval5ehod9xb51i6af3ql4dv0?si=cSTS76krQuylmpZ-_f2Uwg" target="_blank"><img height="30" src="https://raw.githubusercontent.com/Chetan559/Chetan559/main/Resources/png/spotify.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
