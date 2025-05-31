@@ -2,7 +2,7 @@
 
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/bhavye-thakkar-0b086830a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img height="30" src="https://raw.githubusercontent.com/Chetan559/Chetan559/main/Resources/png/linkedin.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/typically_bhavye?igsh=NXJxODd2NjY2MGU1" target="_blank"><img height="30" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/typically_bhavye?igsh=NXJxODd2NjY2MGU1" target="_blank"><img height="30" src="https://raw.githubusercontent.com/Chetan559/Chetan559/main/Resources/png/instagram.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 </p>
