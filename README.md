@@ -40,25 +40,7 @@ Besides training models and pushing to production, I love hacking on innovative 
 <code><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pytorch-icon.svg" alt="Pytorch" width="40" height="40"/></code>
 
- <!--
-
-### 📢 Find me elsewhere
-
-<p align="left">
-  <a href="https://www.codechef.com/users/chetan_9704/">
-    <img src="https://raw.githubusercontent.com/Chetan559/Chetan559/main/Resources/svg/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
-  </a>&nbsp;&nbsp;&nbsp;
-  
-  <a href="https://leetcode.com/chetan_9704/">
-    <img src="https://raw.githubusercontent.com/Chetan559/Chetan559/main/Resources/svg/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.hackerrank.com/cschetan559">
-    <img src="https://raw.githubusercontent.com/Chetan559/Chetan559/main/Resources/svg/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
-  </a>&nbsp;&nbsp;&nbsp;
-  
  
-</p> -->
 
 <hr>
 
@@ -69,10 +51,7 @@ Besides training models and pushing to production, I love hacking on innovative 
 
 <picture>
  ![bhavye-thakkar's Stats](https://github-readme-stats.vercel.app/api?username=bhavye-thakkar&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chetan559/Chetan559/output/snake.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chetan559/Chetan559/output/snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Chetan559/Chetan559/output/snake.svg">
-</picture>
+ 
 
 
 <div align="center">
