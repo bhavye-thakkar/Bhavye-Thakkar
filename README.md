@@ -62,10 +62,6 @@ Besides training models and pushing to production, I love hacking on innovative 
 
 <hr>
 
-<details>
-<summary>📈 My GitHub Stats</summary>
-<p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chetan559&theme=dark&hide_border=true" widht="90%"/>
-<img src="https://github-readme-stats.vercel.app/api?username=Chetan559&theme=dark&show_icons=true&hide_border=true&count_private=true" /></p>
 
 </details>
 
