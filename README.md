@@ -54,6 +54,22 @@ Besides training models and pushing to production, I love hacking on innovative 
  
 
 
+### 🧊 My contributions, in 3D
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg">
+  <img alt="3D contribution graph" src="./profile-3d-contrib/profile-night-rainbow.svg">
+</picture>
+
+### 🐍 A snake eating my contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhavye-thakkar/Bhavye-Thakkar/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhavye-thakkar/Bhavye-Thakkar/output/github-snake.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/bhavye-thakkar/Bhavye-Thakkar/output/github-snake.svg">
+</picture>
+
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
