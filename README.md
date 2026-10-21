@@ -40,7 +40,9 @@ Besides training models and pushing to production, I love hacking on innovative 
 <code><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pytorch-icon.svg" alt="Pytorch" width="40" height="40"/></code>
 
- 
+**More skills from my portfolio:**
+- **Web & app:** Three.js, WebGL, Node.js, WebSockets, React, Vue, real-time multiplayer, Flutter
+- **AI & data:** FastAPI, TensorFlow, Keras, scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Computer Vision, NLP, Generative AI, LLMs, Machine Learning, Deep Learning
 
 <hr>
 
