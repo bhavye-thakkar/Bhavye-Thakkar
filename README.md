@@ -49,11 +49,6 @@ Besides training models and pushing to production, I love hacking on innovative 
 
 </br>
 
-<picture>
- ![bhavye-thakkar's Stats](https://github-readme-stats.vercel.app/api?username=bhavye-thakkar&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
- 
-
-
 ### 🐍 A snake eating my contributions
 
 <picture>
