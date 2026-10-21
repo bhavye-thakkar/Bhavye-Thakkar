@@ -39,7 +39,6 @@ Besides training models and pushing to production, I love hacking on innovative 
 <code><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pytorch-icon.svg" alt="Pytorch" width="40" height="40"/></code>
-
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/threejs/threejs-original.svg" alt="Three.js" width="40" height="40"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/react/react-original.svg" alt="React" width="40" height="40"/></code>
