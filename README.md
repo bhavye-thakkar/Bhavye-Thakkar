@@ -40,9 +40,18 @@ Besides training models and pushing to production, I love hacking on innovative 
 <code><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pytorch-icon.svg" alt="Pytorch" width="40" height="40"/></code>
 
-**More skills from my portfolio:**
-- **Web & app:** Three.js, WebGL, Node.js, WebSockets, React, Vue, real-time multiplayer, Flutter
-- **AI & data:** FastAPI, TensorFlow, Keras, scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Computer Vision, NLP, Generative AI, LLMs, Machine Learning, Deep Learning
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/threejs/threejs-original.svg" alt="Three.js" width="40" height="40"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/react/react-original.svg" alt="React" width="40" height="40"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/keras/keras-original.svg" alt="Keras" width="40" height="40"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/></code>
 
 <hr>
 
